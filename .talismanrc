@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: src/main/java/pages/HomePage.java
+  checksum: beb54f411b5253446022ee973dcce060bb9a4e2a3f9821de7cb0bf2eb8d87204
+version: ""
